@@ -1,3 +1,3 @@
 # MyAwesomeRepo
  play me
-NataliaLyon/MyAwesomeRepo
+https://natalialyon.github.io/MyAwesomeRepo/
